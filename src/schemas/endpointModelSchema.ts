@@ -2,7 +2,7 @@ import {
   commonSchemaFieldDefObjectIdRequired,
   commonSchemaFieldDefUrlRequired,
   commonSchemaFieldGroupModelType,
-} from '@freight/common-schema-fields';
+} from '@datr.tech/leith-common-schema-fields';
 
 export const endpointModelSchema = {
   _id: {
