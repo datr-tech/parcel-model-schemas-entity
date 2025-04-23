@@ -10,8 +10,7 @@
     }
   },
   "moduleNameMapper": {
-    "@app-pmse/(.*)": "<rootDir>/src/$1",
-    "@dist-pmse": "<rootDir>/dist/index.js"
+    "@app-pmse/(.*)": "<rootDir>/src/$1"
   },
   "preset": "ts-jest",
   "testEnvironment": "node",
