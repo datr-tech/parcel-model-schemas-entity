@@ -3,12 +3,11 @@
 .prettierrc.json
 
 CHANGELOG.md
-commitlint.config.js
+commitlint.config.mjs
 cspell.json
 eslint.config.mjs
 jest.config.json
 tsconfig.json
-webpack.config.mjs
 
 .github/
 .husky/
