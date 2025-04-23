@@ -1,8 +1,8 @@
-import { endpointTypeModelSchema } from './../../../dist';
 import {
   commonSchemaFieldDefObjectIdRequired,
   commonSchemaFieldGroupModelType,
 } from '@datr.tech/parcel-model-schemas-common-fields';
+import { endpointTypeModelSchema } from './../../../dist';
 
 describe('endpointTypeModelSchema', () => {
   describe('positive', () => {

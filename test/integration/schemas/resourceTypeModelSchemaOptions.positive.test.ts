@@ -1,5 +1,5 @@
-import { resourceTypeModelSchemaOptions } from './../../../dist';
 import { commonSchemaOptions } from '@datr.tech/parcel-model-schemas-common-fields';
+import { resourceTypeModelSchemaOptions } from './../../../dist';
 
 describe('resourceTypeModelSchemaOptions', () => {
   describe('positive', () => {

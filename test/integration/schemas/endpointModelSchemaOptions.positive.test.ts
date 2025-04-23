@@ -1,5 +1,5 @@
-import { endpointModelSchemaOptions } from './../../../dist';
 import { commonSchemaOptions } from '@datr.tech/parcel-model-schemas-common-fields';
+import { endpointModelSchemaOptions } from './../../../dist';
 
 describe('endpointModelSchemaOptions', () => {
   describe('positive', () => {

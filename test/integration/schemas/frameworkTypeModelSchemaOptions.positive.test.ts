@@ -1,5 +1,5 @@
-import { frameworkTypeModelSchemaOptions } from './../../../dist';
 import { commonSchemaOptions } from '@datr.tech/parcel-model-schemas-common-fields';
+import { frameworkTypeModelSchemaOptions } from './../../../dist';
 
 describe('frameworkTypeModelSchemaOptions', () => {
   describe('positive', () => {
